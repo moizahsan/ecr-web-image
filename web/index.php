@@ -1,8 +1,8 @@
 <?php
 
 
-echo "this is my first task of github actions .";
+echo "my task  .";
 
-echo print_r($_ENV);
+echo print_r($_ENV);  
 
 ?>
